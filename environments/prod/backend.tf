@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "dcsgva-lab-sandbox-pdsp-tfstate-tfstate"
+    bucket = "dcsgva-lab-sandbox-pdsp-tfstate"
     prefix = "env/prod"
   }
 }

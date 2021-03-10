@@ -1,1 +1,1 @@
-project="dcsgva-lab-sandbox-pdsp-tfstate"
+project="dcsgva-lab-sandbox-pdsp"
